@@ -1,3 +1,4 @@
+<!-- ここはコンテンツ紹介とかを書く -->
 <template>
   <div class="home">
 
